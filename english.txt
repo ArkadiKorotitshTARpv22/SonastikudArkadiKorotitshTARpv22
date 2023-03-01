@@ -1,0 +1,11 @@
+﻿programm
+list
+check
+found
+compiler
+language
+algorithm
+computer
+query
+terminal
+add
